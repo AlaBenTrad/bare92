@@ -262,6 +262,7 @@
     margin-top:5px !important;
 }*/
 body {
+    font-family: "AXtManalBLack";
     overflow: hidden; /* Hide scrollbars */
 }
 .play_btn_div {
